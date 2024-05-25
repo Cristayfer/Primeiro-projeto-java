@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        String none = "Cristayfer";
-        System.out.println("hello world, "+ none);
+        String nome = "Cristayfer";
+        int idade = 21;
+        System.out.println("Oi, eu me chamo "+ nome+", tenho " + idade + " anos");
     }
 }
